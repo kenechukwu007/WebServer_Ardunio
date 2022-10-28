@@ -11,8 +11,8 @@
  
  
 // access credentials for WiFi network. 
-const char* ssid = "Mohawk-IoT"; 
-const char* password = "IoT@MohawK1"; 
+const char* ssid = "xxxxxx"; 
+const char* password = "xxxxxxx"; 
  
 // WiFI server.  Listen on port 80, which is the default TCP port for HTTP 
 WiFiServer server(80); 
